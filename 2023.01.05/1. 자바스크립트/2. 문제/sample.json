@@ -1,0 +1,662 @@
+{
+  "items": [
+    {
+      "deviceId": "15095a4e-2286-4fd0-a6ea-efa2c480d056",
+      "name": "Hue color light 5",
+      "label": "Hue color light 11",
+      "manufacturerName": "SmartThings",
+      "presentationId": "SmartThings-smartthings-LAN_Hue_Extended_Color",
+      "locationId": "676ef55a-f6e2-44e1-ada2-bd3ad4d5fe9e",
+      "roomId": "f6fca1bf-55cd-4225-b527-d7623e1fc453",
+      "deviceTypeId": "437a5fc8-9d28-46cd-a093-ced698498332",
+      "deviceTypeName": "LAN Hue Extended Color",
+      "deviceNetworkType": "UNKNOWN",
+      "components": [
+        {
+          "id": "main",
+          "label": "Hue color light 11",
+          "capabilities": [
+            {
+              "id": "switch",
+              "version": 1
+            },
+            {
+              "id": "switchLevel",
+              "version": 1
+            },
+            {
+              "id": "refresh",
+              "version": 1
+            },
+            {
+              "id": "colorControl",
+              "version": 1
+            },
+            {
+              "id": "sensor",
+              "version": 1
+            },
+            {
+              "id": "actuator",
+              "version": 1
+            },
+            {
+              "id": "colorTemperature",
+              "version": 1
+            },
+            {
+              "id": "healthCheck",
+              "version": 1
+            },
+            {
+              "id": "light",
+              "version": 1
+            }
+          ],
+          "categories": [
+            {
+              "name": "Light",
+              "categoryType": "manufacturer"
+            }
+          ]
+        }
+      ],
+      "createTime": "2021-07-13T12:50:22.683Z",
+      "parentDeviceId": "29a8ec32-46e9-4740-93ca-e489c82cfa06",
+      "dth": {
+        "completedSetup": true,
+        "deviceNetworkType": "UNKNOWN",
+        "deviceTypeId": "437a5fc8-9d28-46cd-a093-ced698498332",
+        "deviceTypeName": "LAN Hue Extended Color",
+        "executingLocally": true,
+        "hubId": "29a8ec32-46e9-4740-93ca-e489c82cfa06",
+        "networkSecurityLevel": "UNKNOWN"
+      },
+      "type": "DTH",
+      "restrictionTier": 0,
+      "allowed": []
+    },
+    {
+      "deviceId": "050769b2-4514-4b19-802d-fea9023ad406",
+      "name": "문열림 센서",
+      "label": "문열림 센서",
+      "manufacturerName": "SmartThings",
+      "presentationId": "SmartThings-smartthings-SmartSense_Multi_Sensor",
+      "deviceManufacturerCode": "Samjin",
+      "locationId": "676ef55a-f6e2-44e1-ada2-bd3ad4d5fe9e",
+      "roomId": "f6fca1bf-55cd-4225-b527-d7623e1fc453",
+      "deviceTypeId": "52517166-43f9-4cbf-8bc2-7da4e8df5614",
+      "deviceTypeName": "SmartSense Multi Sensor",
+      "deviceNetworkType": "ZIGBEE",
+      "components": [
+        {
+          "id": "main",
+          "label": "문열림 센서",
+          "capabilities": [
+            {
+              "id": "temperatureMeasurement",
+              "version": 1
+            },
+            {
+              "id": "battery",
+              "version": 1
+            },
+            {
+              "id": "contactSensor",
+              "version": 1
+            },
+            {
+              "id": "configuration",
+              "version": 1
+            },
+            {
+              "id": "threeAxis",
+              "version": 1
+            },
+            {
+              "id": "accelerationSensor",
+              "version": 1
+            },
+            {
+              "id": "refresh",
+              "version": 1
+            },
+            {
+              "id": "sensor",
+              "version": 1
+            },
+            {
+              "id": "healthCheck",
+              "version": 1
+            }
+          ],
+          "categories": [
+            {
+              "name": "MultiFunctionalSensor",
+              "categoryType": "manufacturer"
+            }
+          ]
+        }
+      ],
+      "createTime": "2021-07-13T12:45:08.750Z",
+      "parentDeviceId": "29a8ec32-46e9-4740-93ca-e489c82cfa06",
+      "dth": {
+        "completedSetup": true,
+        "deviceNetworkType": "ZIGBEE",
+        "deviceTypeId": "52517166-43f9-4cbf-8bc2-7da4e8df5614",
+        "deviceTypeName": "SmartSense Multi Sensor",
+        "executingLocally": true,
+        "hubId": "29a8ec32-46e9-4740-93ca-e489c82cfa06",
+        "networkSecurityLevel": "UNKNOWN"
+      },
+      "type": "DTH",
+      "restrictionTier": 0,
+      "allowed": []
+    },
+    {
+      "deviceId": "fa639f2b-c275-435c-add8-2b63506973ef",
+      "name": "Hue color light 3",
+      "label": "Hue color light 9",
+      "manufacturerName": "SmartThings",
+      "presentationId": "SmartThings-smartthings-LAN_Hue_Extended_Color",
+      "locationId": "676ef55a-f6e2-44e1-ada2-bd3ad4d5fe9e",
+      "roomId": "f6fca1bf-55cd-4225-b527-d7623e1fc453",
+      "deviceTypeId": "437a5fc8-9d28-46cd-a093-ced698498332",
+      "deviceTypeName": "LAN Hue Extended Color",
+      "deviceNetworkType": "UNKNOWN",
+      "components": [
+        {
+          "id": "main",
+          "label": "Hue color light 9",
+          "capabilities": [
+            {
+              "id": "switch",
+              "version": 1
+            },
+            {
+              "id": "switchLevel",
+              "version": 1
+            },
+            {
+              "id": "refresh",
+              "version": 1
+            },
+            {
+              "id": "colorControl",
+              "version": 1
+            },
+            {
+              "id": "sensor",
+              "version": 1
+            },
+            {
+              "id": "actuator",
+              "version": 1
+            },
+            {
+              "id": "colorTemperature",
+              "version": 1
+            },
+            {
+              "id": "healthCheck",
+              "version": 1
+            },
+            {
+              "id": "light",
+              "version": 1
+            }
+          ],
+          "categories": [
+            {
+              "name": "Light",
+              "categoryType": "manufacturer"
+            }
+          ]
+        }
+      ],
+      "createTime": "2021-07-13T12:50:22.687Z",
+      "parentDeviceId": "29a8ec32-46e9-4740-93ca-e489c82cfa06",
+      "dth": {
+        "completedSetup": true,
+        "deviceNetworkType": "UNKNOWN",
+        "deviceTypeId": "437a5fc8-9d28-46cd-a093-ced698498332",
+        "deviceTypeName": "LAN Hue Extended Color",
+        "executingLocally": true,
+        "hubId": "29a8ec32-46e9-4740-93ca-e489c82cfa06",
+        "networkSecurityLevel": "UNKNOWN"
+      },
+      "type": "DTH",
+      "restrictionTier": 0,
+      "allowed": []
+    },
+    {
+      "deviceId": "4fb408d3-0f1c-4d0a-9321-7e13b51020bd",
+      "name": "air-monitor-v1-20201123-2-nr",
+      "label": "에어모니터",
+      "manufacturerName": "SmartThings",
+      "presentationId": "AirMonitor-v1-nr",
+      "deviceManufacturerCode": "0AJT",
+      "locationId": "676ef55a-f6e2-44e1-ada2-bd3ad4d5fe9e",
+      "roomId": "f6fca1bf-55cd-4225-b527-d7623e1fc453",
+      "components": [
+        {
+          "id": "main",
+          "label": "main",
+          "capabilities": [
+            {
+              "id": "dustSensor",
+              "version": 1
+            },
+            {
+              "id": "veryFineDustSensor",
+              "version": 1
+            },
+            {
+              "id": "dustHealthConcern",
+              "version": 1
+            },
+            {
+              "id": "fineDustHealthConcern",
+              "version": 1
+            },
+            {
+              "id": "veryFineDustHealthConcern",
+              "version": 1
+            },
+            {
+              "id": "airQualitySensor",
+              "version": 1
+            },
+            {
+              "id": "odorSensor",
+              "version": 1
+            },
+            {
+              "id": "carbonDioxideMeasurement",
+              "version": 1
+            },
+            {
+              "id": "carbonDioxideHealthConcern",
+              "version": 1
+            },
+            {
+              "id": "temperatureMeasurement",
+              "version": 1
+            },
+            {
+              "id": "relativeHumidityMeasurement",
+              "version": 1
+            },
+            {
+              "id": "illuminanceMeasurement",
+              "version": 1
+            },
+            {
+              "id": "battery",
+              "version": 1
+            },
+            {
+              "id": "healthCheck",
+              "version": 1
+            },
+            {
+              "id": "refresh",
+              "version": 1
+            }
+          ],
+          "categories": [
+            {
+              "name": "AirQualityDetector",
+              "categoryType": "manufacturer"
+            }
+          ]
+        }
+      ],
+      "createTime": "2023-01-05T01:32:54.643Z",
+      "profile": {
+        "id": "1bcc08ee-95ef-4eef-957e-c99b6e17962f"
+      },
+      "type": "PENGYOU",
+      "restrictionTier": 0,
+      "allowed": []
+    },
+    {
+      "deviceId": "10587cb0-3aa5-4982-abf5-305e17ddb2ff",
+      "name": "Test Device",
+      "label": "Test Device",
+      "manufacturerName": "SmartThings",
+      "presentationId": "generic-switch",
+      "locationId": "676ef55a-f6e2-44e1-ada2-bd3ad4d5fe9e",
+      "deviceTypeId": "606ecd1d-cc01-4f2e-81b8-fc92775a55ad",
+      "deviceTypeName": "Virtual Switch",
+      "deviceNetworkType": "UNKNOWN",
+      "components": [
+        {
+          "id": "main",
+          "capabilities": [
+            {
+              "id": "switch",
+              "version": 1
+            },
+            {
+              "id": "sensor",
+              "version": 1
+            },
+            {
+              "id": "actuator",
+              "version": 1
+            }
+          ],
+          "categories": [
+            {
+              "name": "Switch",
+              "categoryType": "manufacturer"
+            }
+          ]
+        }
+      ],
+      "createTime": "2021-07-29T03:05:25.702Z",
+      "dth": {
+        "completedSetup": false,
+        "deviceNetworkType": "UNKNOWN",
+        "deviceTypeId": "606ecd1d-cc01-4f2e-81b8-fc92775a55ad",
+        "deviceTypeName": "Virtual Switch",
+        "executingLocally": false,
+        "networkSecurityLevel": "UNKNOWN"
+      },
+      "type": "DTH",
+      "restrictionTier": 0,
+      "allowed": []
+    },
+    {
+      "deviceId": "e4d41df7-e244-4890-b6c1-767c52d83119",
+      "name": "IKEA Motion Sensor",
+      "label": "IKEA Motion Sensor",
+      "manufacturerName": "SmartThingsCommunity",
+      "presentationId": "442797e6-cb4e-3b9f-bb66-39ae1cef0534",
+      "deviceManufacturerCode": "IKEA of Sweden",
+      "locationId": "676ef55a-f6e2-44e1-ada2-bd3ad4d5fe9e",
+      "roomId": "f6fca1bf-55cd-4225-b527-d7623e1fc453",
+      "components": [
+        {
+          "id": "main",
+          "label": "IKEA Motion Sensor",
+          "capabilities": [
+            {
+              "id": "motionSensor",
+              "version": 1
+            },
+            {
+              "id": "battery",
+              "version": 1
+            },
+            {
+              "id": "firmwareUpdate",
+              "version": 1
+            },
+            {
+              "id": "refresh",
+              "version": 1
+            }
+          ],
+          "categories": [
+            {
+              "name": "MotionSensor",
+              "categoryType": "manufacturer"
+            }
+          ]
+        }
+      ],
+      "createTime": "2021-07-13T12:47:38.936Z",
+      "parentDeviceId": "29a8ec32-46e9-4740-93ca-e489c82cfa06",
+      "profile": {
+        "id": "d695b6b6-05c2-3638-b645-34fee7c8b429"
+      },
+      "zigbee": {
+        "eui": "804B50FFFE5632B3",
+        "networkId": "D71F",
+        "driverId": "d620900d-f7bc-4ab5-a171-6dd159872f7d",
+        "executingLocally": true,
+        "hubId": "29a8ec32-46e9-4740-93ca-e489c82cfa06",
+        "provisioningState": "PROVISIONED"
+      },
+      "type": "ZIGBEE",
+      "restrictionTier": 0,
+      "allowed": []
+    },
+    {
+      "deviceId": "0440ca45-da96-406b-ab06-de72b3769577",
+      "name": "Bridge1",
+      "label": "Bridge1",
+      "manufacturerName": "SmartThings",
+      "presentationId": "SmartThings-smartthings-LAN_Hue_Bridge",
+      "locationId": "676ef55a-f6e2-44e1-ada2-bd3ad4d5fe9e",
+      "roomId": "f6fca1bf-55cd-4225-b527-d7623e1fc453",
+      "deviceTypeId": "79f0556c-51e6-4b3d-aaa9-1f1acbe2a7cd",
+      "deviceTypeName": "LAN Hue Bridge",
+      "deviceNetworkType": "UNKNOWN",
+      "components": [
+        {
+          "id": "main",
+          "label": "Bridge1",
+          "capabilities": [
+            {
+              "id": "refresh",
+              "version": 1
+            },
+            {
+              "id": "healthCheck",
+              "version": 1
+            },
+            {
+              "id": "bridge",
+              "version": 1
+            }
+          ],
+          "categories": [
+            {
+              "name": "Bridges",
+              "categoryType": "manufacturer"
+            }
+          ]
+        }
+      ],
+      "createTime": "2021-07-13T12:50:20.719Z",
+      "parentDeviceId": "29a8ec32-46e9-4740-93ca-e489c82cfa06",
+      "dth": {
+        "completedSetup": true,
+        "deviceNetworkType": "UNKNOWN",
+        "deviceTypeId": "79f0556c-51e6-4b3d-aaa9-1f1acbe2a7cd",
+        "deviceTypeName": "LAN Hue Bridge",
+        "executingLocally": true,
+        "hubId": "29a8ec32-46e9-4740-93ca-e489c82cfa06",
+        "networkSecurityLevel": "UNKNOWN"
+      },
+      "type": "DTH",
+      "restrictionTier": 0,
+      "allowed": []
+    },
+    {
+      "deviceId": "29a8ec32-46e9-4740-93ca-e489c82cfa06",
+      "name": "SmartThings v3 Hub",
+      "label": "허브",
+      "manufacturerName": "SmartThings",
+      "presentationId": "SmartThings-smartthings-hub",
+      "locationId": "676ef55a-f6e2-44e1-ada2-bd3ad4d5fe9e",
+      "roomId": "f6fca1bf-55cd-4225-b527-d7623e1fc453",
+      "components": [
+        {
+          "id": "main",
+          "label": "main",
+          "capabilities": [
+            {
+              "id": "bridge",
+              "version": 1
+            }
+          ],
+          "categories": [
+            {
+              "name": "Hub",
+              "categoryType": "manufacturer"
+            }
+          ]
+        }
+      ],
+      "createTime": "2021-07-13T12:39:16.975Z",
+      "childDevices": [
+        {
+          "deviceId": "0440ca45-da96-406b-ab06-de72b3769577",
+          "profile": {},
+          "allowed": null
+        },
+        {
+          "deviceId": "050769b2-4514-4b19-802d-fea9023ad406",
+          "profile": {},
+          "allowed": null
+        },
+        {
+          "deviceId": "15095a4e-2286-4fd0-a6ea-efa2c480d056",
+          "profile": {},
+          "allowed": null
+        },
+        {
+          "deviceId": "e4d41df7-e244-4890-b6c1-767c52d83119",
+          "profile": {},
+          "allowed": null
+        },
+        {
+          "deviceId": "fa639f2b-c275-435c-add8-2b63506973ef",
+          "profile": {},
+          "allowed": null
+        }
+      ],
+      "profile": {
+        "id": "f6769ddf-caa6-309c-800a-f9944b60b014"
+      },
+      "type": "HUB",
+      "restrictionTier": 0,
+      "allowed": []
+    },
+    {
+      "deviceId": "8df36af4-7f2a-43ae-994f-1a0bbe3a1393",
+      "name": "dawon-switch-power-energy-prod-0908",
+      "label": "스마트플러그1",
+      "manufacturerName": "DawonDNS",
+      "presentationId": "dawon-power-energy-smartplug",
+      "locationId": "676ef55a-f6e2-44e1-ada2-bd3ad4d5fe9e",
+      "roomId": "f6fca1bf-55cd-4225-b527-d7623e1fc453",
+      "components": [
+        {
+          "id": "main",
+          "label": "main",
+          "capabilities": [
+            {
+              "id": "switch",
+              "version": 1
+            },
+            {
+              "id": "energyMeter",
+              "version": 1
+            },
+            {
+              "id": "powerMeter",
+              "version": 1
+            },
+            {
+              "id": "powerConsumptionReport",
+              "version": 1
+            },
+            {
+              "id": "healthCheck",
+              "version": 1
+            },
+            {
+              "id": "refresh",
+              "version": 1
+            }
+          ],
+          "categories": [
+            {
+              "name": "SmartPlug",
+              "categoryType": "manufacturer"
+            }
+          ]
+        }
+      ],
+      "createTime": "2021-07-16T05:14:30.165Z",
+      "profile": {
+        "id": "95bd4d01-6fd0-4226-a69a-c2f8a387de01"
+      },
+      "viper": {
+        "manufacturerName": "dawon",
+        "modelName": "PowerOutlet",
+        "swVersion": "1",
+        "hwVersion": "0"
+      },
+      "type": "VIPER",
+      "restrictionTier": 0,
+      "allowed": []
+    },
+    {
+      "deviceId": "62eb4cad-0267-48de-9cb5-968bad528463",
+      "name": "dawon-switch-power-energy-prod-0908",
+      "label": "스마트플러그2",
+      "manufacturerName": "DawonDNS",
+      "presentationId": "dawon-power-energy-smartplug",
+      "locationId": "676ef55a-f6e2-44e1-ada2-bd3ad4d5fe9e",
+      "roomId": "f6fca1bf-55cd-4225-b527-d7623e1fc453",
+      "components": [
+        {
+          "id": "main",
+          "label": "main",
+          "capabilities": [
+            {
+              "id": "switch",
+              "version": 1
+            },
+            {
+              "id": "energyMeter",
+              "version": 1
+            },
+            {
+              "id": "powerMeter",
+              "version": 1
+            },
+            {
+              "id": "powerConsumptionReport",
+              "version": 1
+            },
+            {
+              "id": "healthCheck",
+              "version": 1
+            },
+            {
+              "id": "refresh",
+              "version": 1
+            }
+          ],
+          "categories": [
+            {
+              "name": "SmartPlug",
+              "categoryType": "manufacturer"
+            }
+          ]
+        }
+      ],
+      "createTime": "2021-07-16T05:14:30.165Z",
+      "profile": {
+        "id": "95bd4d01-6fd0-4226-a69a-c2f8a387de01"
+      },
+      "viper": {
+        "manufacturerName": "dawon",
+        "modelName": "PowerOutlet",
+        "swVersion": "1",
+        "hwVersion": "0"
+      },
+      "type": "VIPER",
+      "restrictionTier": 0,
+      "allowed": []
+    }
+  ],
+  "_links": {}
+}
